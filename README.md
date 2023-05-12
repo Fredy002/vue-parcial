@@ -1,6 +1,6 @@
 # vue-parcial
 
-This template should help get you started developing with Vue 3 in Vite.
+Developed by Fredy Antonio Almeyda Alania, this template should help you start developing with Vue 3 in Vite. Made with love ❤️
 
 ## Recommended IDE Setup
 
